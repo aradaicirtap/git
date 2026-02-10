@@ -1,0 +1,5 @@
+name,password,email,failed_login_attempts,logged_in,role
+admin,admin123,admin@email.com,0,False,admin
+alice,alice123,alice@email.com,0,False,user
+bob,bob123,bob@email.com,0,False,user
+root,rootMDP,admin@gmail.com,0,False,admin
